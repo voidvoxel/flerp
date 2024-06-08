@@ -1,6 +1,6 @@
 {
   "name": "flerp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple, zero-dependency linear interpolation (LERP) implementation",
   "main": "lerp.cjs",
   "types": "lerp.d.ts",
