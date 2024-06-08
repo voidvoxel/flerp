@@ -1,0 +1,25 @@
+{
+  "name": "flerp",
+  "version": "0.0.0",
+  "description": "A simple, zero-dependency linear interpolation (LERP) implementation",
+  "main": "lerp.cjs",
+  "types": "lerp.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sogouda/lerp.git"
+  },
+  "keywords": [
+    "lerp",
+    "linear",
+    "interpolation"
+  ],
+  "author": "Ashlynne Juniper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sogouda/lerp/issues"
+  },
+  "homepage": "https://github.com/sogouda/lerp#readme"
+}

@@ -1,2 +1,3 @@
-# lerp
- A simple Linear Interpolation (LERP) implementation
+# `@sogouda/lerp`
+
+A simple, zero-dependency linear interpolation (LERP) implementation.
